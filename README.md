@@ -28,11 +28,11 @@ Once cloned, open the `index.html` file in your web browser to see the To-Do Lis
 - **Font Awesome**: For the plus icon used on the "Add Task" button.
 
 ## How to Use
-Adding a Task: Type your task in the input box and click the "+" button or press Enter to add it to the list.
-Marking a Task as Completed: Completed tasks are indicated with a checkbox next to each task. Click the checkbox to mark tasks as completed.
-Removing a Task: Click on the trash can icon next to any task to remove it from the list.
-Clear Completed Tasks: Click the "Clear completed" button to remove all tasks marked as completed from the list.
-Task Count: The number of tasks remaining to complete is shown at the bottom of the app.
+1. **Adding a Task**: Type your task in the input box and click the "+" button or press Enter to add it to the list.
+2. **Marking a Task as Completed**: Completed tasks are indicated with a checkbox next to each task. Click the checkbox to mark tasks as completed.
+3. **Removing a Task**: Click on the trash can icon next to any task to remove it from the list.
+4. **Clear Completed Tasks**: Click the "Clear completed" button to remove all tasks marked as completed from the list.
+5. **Task Count**: The number of tasks remaining to complete is shown at the bottom of the app.
 
 ## Future Features
 - **Persistence**: Implement local storage or a backend database to persist tasks even after the page is refreshed.
