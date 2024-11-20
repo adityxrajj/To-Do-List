@@ -15,7 +15,7 @@ Welcome to the **Task Master** repository! This is a simple web-based To-Do List
 To get started with the Task Master To-Do List application, simply clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/task-master.git
+git clone https://github.com/adityxrajj/task-master.git
 ```
 Once cloned, open the `index.html` file in your web browser to see the To-Do List app in action. No backend or database is required as this is a client-side application.
 
